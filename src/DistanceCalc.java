@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //Java program to calculate distance
-public class Haversine {
+public class distanceCalc {
  
     private static final double EARTH_RADIUS = 6371.0; // Radius of the Earth in kilometers
  
